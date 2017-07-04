@@ -1,2 +1,0 @@
-Test
-O2cube Dinamic Func
